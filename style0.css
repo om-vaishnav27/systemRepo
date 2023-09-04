@@ -11,3 +11,8 @@
     background-color: aqua;
     margin: 10% ;
   }
+  .box {
+color: blue;
+display: flexbox;
+ 
+  }
